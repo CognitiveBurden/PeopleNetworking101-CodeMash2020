@@ -1,2 +1,4 @@
-# PeopleNetworking101-CodeMash2020
-People Networking 101 Slide Deck
+# People Networking 1100101 - CodeMash 2020
+People Networking 1100101 Slide Deck from CodeMash 2020
+
+While Networking can be scary, it is a SKILL which can be learned and honed and has a wide array of positive impacts. Job postings are incapable of giving the full picture of the job, but through networking with an existing team member it can provide great insights. Finding a new colleague that compliments other team members is nearly impossible by reading a resume.  Networking with others who have worked with your prospective colleague is invaluable. Asking coworkers for help, being considered for special assignment, or promotion are related to your networking skills. Having your thoughts and opinions carry more weight is correlated with your network of people. Finding and providing value to mentees can be positively impacted by your networking skills. Join an accomplished extroverted business development manager and an introverted architect to learn actionable patterns and practices to bootstrap your networking skills to realize your goals.
